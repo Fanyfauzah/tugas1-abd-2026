@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
+| Nama dataset | `[	Indonesian_News_Dataset, agregasi berita dari 7 situs berita Indonesia]` |
+| Sumber | `	https://www.kaggle.com/datasets/iqbalmaulana/indonesian-news-dataset]` |
 | Lisensi/ketentuan pakai | `[isi]` |
 | Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Periode data | `CC BY-NC-SA 4.0 (wajib atribusi, non-komersial, share-alike)` |
+| Unit analisis | `	Satu artikel berita (id artikel, situs sumber, teks lengkap; cek kolom lain saat profiling)` |
 
 ## Tempat Mencari Dataset
 

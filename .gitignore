@@ -26,4 +26,5 @@ output/*.json
 
 # Sistem operasi dan editor
 .DS_Store
-.vscode/
+.vscode/data/raw/
+data/processed/
